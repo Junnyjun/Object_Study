@@ -2,7 +2,7 @@
 /shelf/
 /.idea/workspace.xml
 */*iml
-.idea
+./idea
 
 # Editor-based HTTP Client requests
 /httpRequests/
